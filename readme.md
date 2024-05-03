@@ -1,3 +1,3 @@
-This repo contains games compatibility wiki for lybxlpsv's frame generation for android.
+This repository contains issues and wiki for game compatibility with lybxlpsv's frame generation for Android.
 
 [lybFrameGen Home Page](https://lybxlpsv.com/framegen/)
